@@ -6,7 +6,7 @@ sp = " "
 //Introduction
 print("Welcome to the WIPRPG!")
 print(sp)
-print("start? (y/n?")
+print("start your fantasy adventure? (y/n?")
 
 gamestrt = "false"
 strt = io.read()
