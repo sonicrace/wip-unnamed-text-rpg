@@ -1,12 +1,12 @@
-//Add on
+--Add on
 
-//Space key
+--Space key
 sp = " "
 
-//HP
+--HP
 usrhp = 90
 
-//Introduction
+--Introduction
 print("Welcome to the WIPRPG!")
 print(sp)
 print("start your fantasy adventure? (y/n?")
@@ -14,7 +14,7 @@ print("start your fantasy adventure? (y/n?")
 gamestrt = "false"
 strt = io.read()
 
-//i.f the user wants to start the game
+--if the user wants to start the game
 if strt == "y" then
  gamestrt = "true"
   print(sp)
@@ -39,7 +39,7 @@ if gamestrt == "true" then
 exit
   
 
-//Username
+--Username
  usr = "?"
  print(sp)
  print("Wat do you want to name yourself hero?")
@@ -49,7 +49,7 @@ exit
   print("Nice to meet you "+ usr + "!")
 end
  
-//Quest1
+--Quest1
  print(sp)
  print("TeraDragon comes through!")
  print(sp)
