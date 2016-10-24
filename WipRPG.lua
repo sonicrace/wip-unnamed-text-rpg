@@ -36,7 +36,7 @@ end
 if gamestrt == "true" then 
  print("Game starting...")
   print(sp)
-exit
+end
   
 
 --Username
