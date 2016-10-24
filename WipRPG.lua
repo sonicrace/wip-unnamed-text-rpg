@@ -35,4 +35,16 @@ if gamestrt == "true" then
   print(sp)
 exit
   
+//Username
+ usr = "?"
+ print(sp)
+ print("Wat do you want to name yourself hero?")
+ usr = io.read()
+ 
+ if usr == usr then
+  print("Nice to meet you "+ usr + "!")
+end
+ 
 //Quest1
+ 
+  
