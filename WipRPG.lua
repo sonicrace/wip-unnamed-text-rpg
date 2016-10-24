@@ -3,6 +3,9 @@
 //Space key
 sp = " "
 
+//HP
+usrhp = 90
+
 //Introduction
 print("Welcome to the WIPRPG!")
 print(sp)
@@ -35,6 +38,7 @@ if gamestrt == "true" then
   print(sp)
 exit
   
+
 //Username
  usr = "?"
  print(sp)
@@ -46,5 +50,18 @@ exit
 end
  
 //Quest1
+ print(sp)
+ print("TeraDragon comes through!")
+ print(sp)
+ print("Want to know stats? (y/n)")
+ stats = io.read()
+ 
+ if stats == "y" then
+  print("Sorcerer - Lvl 23 - 1st Boss - 20 HP")
+ else
+  print("Well, okay.")
+end
+ 
+ 
  
   
