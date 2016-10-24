@@ -9,7 +9,7 @@ usrhp = 90
 --Introduction
 print("Welcome to the WIPRPG!")
 print(sp)
-print("start your fantasy adventure? (y/n?")
+print("start your fantasy adventure? (y/n?)")
 
 gamestrt = "false"
 strt = io.read()
@@ -46,7 +46,7 @@ end
  usr = io.read()
  
  if usr == usr then
-  print("Nice to meet you "+ usr + "!")
+  print("Nice to meet you!")
 end
  
 --Quest1
