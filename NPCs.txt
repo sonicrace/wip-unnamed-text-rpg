@@ -1,3 +1,4 @@
 TeraDragon - sorcerer - Lvl 23 - Boss 1 - 20HP
 Ahmester -necromancer -LVL 38- Boss 2 - 90HP
 Tristanos- Dark Knight - Lvl 20- Regular Enemy - 30hp
+The Jester - Warrior - Lvl 10 - Regular  Enemy - 10hp
