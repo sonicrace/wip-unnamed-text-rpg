@@ -49,17 +49,21 @@ end
   print("Nice to meet you!")
 end
  
---Quest1
- print(sp)
- print("TeraDragon comes through!")
- print(sp)
- print("Want to know stats? (y/n)")
- stats = io.read()
- 
- if stats == "y" then
-  print("Sorcerer - Lvl 23 - 1st Boss - 20 HP")
- else
-  print("Well, okay.")
+--Random Boss Generator Thing.
+enemy = 0
+enemy = math.random(2,10)
+terad = 0
+
+if enemy == < 5 then
+ terad = 1
+end
+
+if terad == 1 then
+ io.write("We need your help")
+ io.write(sp)
+ io.write(usr)
+ io.write(!)
+ print("he attacks!")
 end
  
  
