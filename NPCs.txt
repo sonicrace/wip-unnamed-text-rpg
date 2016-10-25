@@ -4,3 +4,5 @@ Tristanos- Dark Knight - Lvl 20- Regular Enemy - 30hp
 The Jester - Warrior - Lvl 10 - Regular  Enemy - 10hp
 Death - Soldier of darkness - Lvl 48 - Ultima boss - 102hp
 Supar man- Fallen hero - Lvl 99 - ultimate boss- 150hp 
+claoud - Bustar sword user - Lvl 99 ultimate ultima boss 300 hp
+
