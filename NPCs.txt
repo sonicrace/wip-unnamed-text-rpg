@@ -2,9 +2,10 @@ TeraDragon - sorcerer - Lvl 23 - Boss 1 - 20HP
 Ahmester -necromancer -LVL 38- Boss 2 - 90HP
 Tristanos- Dark Knight - Lvl 20- Regular Enemy - 30hp
 The Jester - Warrior - Lvl 10 - Regular  Enemy - 10hp
-Death - Soldier of darkness - Lvl 48 - Ultima boss - 102hp
-Supar man- Fallen hero - Lvl 99 - ultimate boss- 150hp 
-claoud - Bustar sword user - Lvl 99 ultimate ultima boss 300 hp
-Super boss - death master - Lvl 100 - Master boss - 1000hp
-one winged man- Soul eater - Lvl 109 - swag boss - 1hp
-Hadstern - Wizard/Killer/Mortal - Lvl 9000000 - hHp 90000000 by hadio 
+Death - Soldier of darkness - Lvl 48 -  Boss - 102hp
+Supar man- Fallen hero - Lvl 99 -  Boss- 150hp 
+claoud - Bustar sword user - Lvl99 - Regular Enemy - 300 hp
+Super boss - Master - Lvl 100 - Fake Boss - 1000hp
+one winged man- Guy with one wing - Lvl 1 - Final Boss - 1hp
+Hadostern - Wizard - Lvl 9000000 - Hp 90000000 (by hadio) 
+Baaman - Action Hero Sheep - Lvl 2 - Hard Boss - 2HP
